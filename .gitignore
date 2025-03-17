@@ -1,0 +1,25 @@
+# Virtual Environment
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Generated files
+*.png
+*.jpg
+*.jpeg
+*.pdf
+
+# OS specific files
+.DS_Store
+Thumbs.db 
